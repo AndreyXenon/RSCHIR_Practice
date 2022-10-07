@@ -15,6 +15,7 @@ foreach ($result as $row){
 }
 ?>
 </table>
+<a href="practice2.php">Задание 2</a>
 <?php
 phpinfo();
 ?>
